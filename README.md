@@ -5,10 +5,10 @@ The aim of this project is to analyze 5 years of U.S. regional sales data to unc
 
 ## Dataset Used
 
-  Regional Sales Dataset.xlsx  - Raw master dataset containing sales, product, customer, region, and budget data across the U.S.
-  Sales_data(EDA Exported).csv - Cleaned and transformed dataset used for Exploratory Data Analysis (EDA).
-  file.csv                     - Supplementary data used for mapping and preprocessing (e.g., state–region relationships).
-  SALES REPORT.pbix	           - Power BI dashboard file for interactive visualization and real-time sales insights.
+* Regional Sales Dataset.xlsx  - Raw master dataset containing sales, product, customer, region, and budget data across the U.S.
+* Sales_data(EDA Exported).csv - Cleaned and transformed dataset used for Exploratory Data Analysis (EDA).
+* file.csv                     - Supplementary data used for mapping and preprocessing (e.g., state–region relationships).
+* SALES REPORT.pbix	           - Power BI dashboard file for interactive visualization and real-time sales insights.
  
 
 ## Process
@@ -24,7 +24,9 @@ The aim of this project is to analyze 5 years of U.S. regional sales data to unc
 
 ## Tools & Technologies
    • Python (Pandas, Numpy, Matplotlib, Seaborn)
+   
    • Power BI
+   
    • Excel
 
 ## Insights
