@@ -1,20 +1,17 @@
 # Regional Sales Analysis – Full Project
 
-##Project Objective
+## Project Objective
 The aim of this project is to analyze 5 years of U.S. regional sales data to uncover key business insights such as seasonal trends, product performance, channel profitability, and customer segmentation. The goal was to help decision-makers identify growth opportunities and optimize sales strategies through data-driven insights.
 
 ## Dataset Used
- <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/movies%20data.xlsx">Dataset</a>
- <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/movies%20data.xlsx">Dataset</a>
-<a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/movies%20data.xlsx">Dataset</a>
- 
-## Questions
-1) Which U.S. region generates the highest revenue and profit?
-2) What are the top-performing and low-performing products?
-3) Which sales channel contributes the most to total revenue?
-4) How does seasonality affect sales across different regions?
-5) Which customers contribute the most to overall profit?
 
+  # File Name	                               # Description / Purpose
+  Regional Sales Dataset.xlsx	                Raw master dataset containing sales, product, customer, region, and budget data across the U.S.
+  Sales_data(EDA Exported).csv                Cleaned and transformed dataset used for Exploratory Data Analysis (EDA).
+  file.csv                                    Supplementary data used for mapping and preprocessing (e.g., state–region relationships).
+  Regional Sales Analysis Code.ipynb	         Jupyter Notebook containing Python code for EDA, data cleaning, and visualization.
+  SALES REPORT.pbix	                          Power BI dashboard file for interactive visualization and real-time sales insights.
+ 
 
 ## Process
 * Import Libraries: Load Python libraries for data cleaning, analysis, and visualization.
@@ -39,7 +36,8 @@ The aim of this project is to analyze 5 years of U.S. regional sales data to unc
 * Customer Impact: Aibox Company and State Ltd drive the largest revenue contributions.
 
 ## Conclusions
-* Seasonal promotions can balance revenue dips.
-* Focusing on high-performing SKUs and regions can maximize growth.
-* Expanding Export partnerships can improve margins.
-* Power BI dashboard enables stakeholders to access insights in real-time.
+* Completed end-to-end Exploratory Data Analysis (EDA) and developed an interactive Power BI dashboard uncovering seasonality, product (SKU), channel, and regional sales insights.
+* Findings drive strategic decisions in pricing, promotions, and resource allocation — aligning sales policies and operational planning (e.g., store and warehouse readiness) with annual demand trends.
+* The solution enables stakeholders to self-serve real-time insights, evaluate profitability across multiple dimensions, and seamlessly integrate new datasets for ongoing business analysis and forecasting.
+
+<a href="https://github.com/saraswat10/Regional-Sales-Analysis/blob/main/SALES%20REPORT.pbix">Final-Project
