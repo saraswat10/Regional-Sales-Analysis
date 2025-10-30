@@ -24,7 +24,7 @@ The aim of this project is to analyze 5 years of U.S. regional sales data to unc
 * Exploratory Data Analysis (EDA): Identify sales trends, revenue patterns, and correlations.
 * Visualization: Create plots for regional, channel, and product performance.
 * Dashboard Development: Build an interactive Power BI dashboard for self-service analysis.
-   <a href="https://github.com/saraswat10/Netflix-Movie-Data-Analysis/blob/main/movies%20data.xlsx">Dashboard
+   <a href="https://github.com/saraswat10/Regional-Sales-Analysis/blob/main/SALES%20REPORT.pbix">Dashboard
 
 ## Tools & Technologies
    • Python (Pandas, Numpy, Matplotlib, Seaborn)
