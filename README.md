@@ -23,11 +23,10 @@ The aim of this project is to analyze 5 years of U.S. regional sales data to unc
    <a href="https://github.com/saraswat10/Regional-Sales-Analysis/blob/main/SALES%20REPORT.pbix">Dashboard
 
 ## Tools & Technologies
-   • Python (Pandas, Numpy, Matplotlib, Seaborn)
-   
-   • Power BI
-   
-   • Excel
+  * Python (Pandas, Numpy, Matplotlib, Seaborn)
+  * Power BI
+  * Excel
+  * Jupyter Notebook
 
 ## Insights
 * Seasonality: Strong peaks in May–June; lowest sales in January.
@@ -40,6 +39,5 @@ The aim of this project is to analyze 5 years of U.S. regional sales data to unc
 * Completed end‑to‑end EDA and interactive Power BI dashboard, surfacing seasonality, SKU, channel & regional insights.
 * Insights inform sales policies and operational planning (store & warehouse prep aligned with annual trends).
 * Stakeholders can self‑serve real‑time analysis and confidently onboard new datasets for additional use cases.
-
 
 <a href="https://github.com/saraswat10/Regional-Sales-Analysis/blob/main/Regional%20Sales%20Analysis%20%20Code.ipynb">Final-Project
