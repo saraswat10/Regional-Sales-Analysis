@@ -1,7 +1,7 @@
 # Regional Sales Analysis – Full Project
 
 ## Project Objective
-The aim of this project is to analyze 5 years of U.S. regional sales data to uncover key business insights such as seasonal trends, product performance, channel profitability, and customer segmentation. The goal was to help decision-makers identify growth opportunities and optimize sales strategies through data-driven insights.
+The aim of this project is to analyse 5 years of U.S. regional sales data to uncover key business insights such as seasonal trends, product performance, channel profitability, and customer segmentation. The goal was to help decision-makers identify growth opportunities and optimize sales strategies through data-driven insights.
 
 ## Dataset Used
 
